@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/att_detail_call"
+        android:icon="@drawable/ic_call_24dp_2"
+        android:title="전화"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/att_detail_map"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="지도"
+        app:showAsAction="always" />
+</menu>

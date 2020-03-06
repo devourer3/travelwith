@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "872117183883",
+    "firebase_url": "https://travel-with-75c44.firebaseio.com",
+    "project_id": "travel-with-75c44",
+    "storage_bucket": "travel-with-75c44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872117183883:android:07f048bf07d7305c",
+        "android_client_info": {
+          "package_name": "com.mymusic.orvai.travel_with"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872117183883-0bae1ri4po4o1j9ql580itcaj3mqdt2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mymusic.orvai.travel_with",
+            "certificate_hash": "3af056eca2e4b55b4b45cdc59a013d5744c83d09"
+          }
+        },
+        {
+          "client_id": "872117183883-v145ci34t4ccfb0kclhqiq4g8h1rk4if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mymusic.orvai.travel_with",
+            "certificate_hash": "8b5007c7a583b5b29ddd3e9545fbd12ef8bf02d1"
+          }
+        },
+        {
+          "client_id": "872117183883-nv27g61ev6giamm4psicoce3vavmarhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtqecvf4Z7Hn1N5guiJSYXg_mM4etOsg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872117183883-l8anp3np4scv1ho24dl3qln13bkdvi7a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872117183883-ofjb91dmnvecqic6br5mb54k1gm3grq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pro.Travel-With-You"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

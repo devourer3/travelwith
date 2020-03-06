@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_navi_attraction"
+        android:enabled="true"
+        android:icon="@drawable/activity_main_attraction_list"
+        android:title="@string/select_one"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bottom_navi_reporter"
+        android:enabled="true"
+        android:icon="@drawable/activity_main_iam_reporter"
+        android:title="@string/select_two"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/bottom_navi_conference"
+        android:enabled="true"
+        android:icon="@drawable/activity_main_conference"
+        android:title="@string/select_three"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/bottom_navi_ar_vr"
+        android:enabled="true"
+        android:icon="@drawable/activity_main_vr_ar"
+        android:title="@string/select_four"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/bottom_navi_etc"
+        android:enabled="true"
+        android:icon="@drawable/activity_main_dot"
+        android:title="@string/select_five"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>
